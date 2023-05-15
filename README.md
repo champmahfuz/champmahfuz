@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **JavaScript, React**
 
-- 🌱 I’m currently learning *TypeScrpt NextJS .**
+- 🌱 I’m currently learning **TypeScrpt NextJS .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
