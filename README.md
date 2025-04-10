@@ -4,6 +4,7 @@
 <h3 align="center">I'm a passionate Front End Web Developer from Bangladesh.</h3>
 <p>I’m Md Mahfuz Rahman. My career objective is to achieve a dynamic and challenging job where I can use my technical and interpersonal skills, creativity, and above all my learning experiences to develop my career as well as to contribute to the organization and would serve best our society</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=champmahfuz&label=Profile%20views&color=0e75b6&style=flat" alt="champmahfuz" /> </p>
 
 ## 🙋‍♂️ About Me
 
